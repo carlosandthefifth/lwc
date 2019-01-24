@@ -1,0 +1,5 @@
+Important links to help setup SFDX
+
+http://amitsalesforce.blogspot.com/2018/12/lightning-web-components-lwc-Salesforce.html
+https://trailhead.salesforce.com/en/content/learn/projects/quick-start-lightning-web-components/create-a-hello-world-lightning-web-component
+https://salesforce.wd1.myworkdayjobs.com/External_Career_Site/job/Georgia---Atlanta-ET/Associate-ISV-Tech-Evangelist_JR30953
